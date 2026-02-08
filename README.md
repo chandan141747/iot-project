@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # iot-project
 My first IoT project
-=======
 # IoT Project using ESP32
 
 ## 📌 Project Overview
@@ -47,4 +45,3 @@ iot-project/
 - Mobile application for real-time monitoring
 - Smart agriculture and smart city applications
 - 5G-enabled IoT communication
->>>>>>> 12927be (Finalize README)
